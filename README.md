@@ -1,4 +1,4 @@
-# CS193p-TU
-Taylan's Development Work learning Swift and iOS development through CS193p
+# CS193P-TU
+Taylan's Development Work learning Swift and iOS development through CS193P curriculum.
 
-CS193p Site: https://cs193p.sites.stanford.edu
+CS193P Site: https://cs193p.sites.stanford.edu
